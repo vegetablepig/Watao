@@ -27,8 +27,7 @@
 //    [super viewWillDisappear:animated];
 ////    [self.motionManager stopAccelerometerUpdates];
 //    //tell accelerator to stop working
-//}
-
+//}//
 
 - (void)viewDidLoad
 {
